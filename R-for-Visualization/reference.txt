@@ -1,0 +1,2 @@
+Grammar of Graphics Summary (Quick Reference I Built Above)
+ggplot(data, aes(...)) + geom_xxx() + scale_xxx() + labs() + theme() + facet_xxx() + coord_xxx()
